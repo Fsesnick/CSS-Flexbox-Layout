@@ -6,6 +6,8 @@
 .container {
 	display: flex;
 	flex-wrap: wrap;
+  height:450;
+  align-items:stretch;
 }
 /*.item {
   flex-grow:1;
@@ -14,5 +16,17 @@
 */
 
 .item {
-  flex: 1 200px;  
+  flex: 1 ;  
+}
+
+.item-1 {
+  align-self:flex-end;
+}
+
+.item-2 {
+  flex:2;
+}
+
+.item-4 {
+  align-self: center;
 }
