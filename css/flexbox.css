@@ -5,13 +5,11 @@
 .container {
 	display: flex;
   flex-wrap: wrap;
-  justify-content:space-between;
-  flex-direction: column;
 }
 
-.item-5{
-  order:-1;
+.item {
+  flex-grow: 1 ;
 }
-.item-1{
-  order: -2;
+.item-3{
+  flex-grow: 3;
 }
