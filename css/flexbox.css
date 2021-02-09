@@ -2,30 +2,12 @@
   Flexbox
 ==================================== */
 
-/*.container {
-	display: flex;
-  flex-wrap: wrap;
-  flex-direction:column;
-  height:280px;
-}
-
-.container {
-	display: flex;
-  flex-wrap: wrap;
-  justify-content:flex-end;
-}
-
-.item-2{
-  margin-right:auto;
-}
-
-*/
 .container {
 	display: flex;
   flex-wrap: wrap;
   justify-content:space-between;
 }
 
-.item-6 {
-  order:-1;
+.item-1 {
+  order:1;
 }
