@@ -8,5 +8,8 @@
 	min-height: 50vh;
   
   justify-content: center;
-  align-items: center;
+}
+
+.item {
+  align-self: center;
 }
