@@ -24,7 +24,6 @@ h3,
 a {
 	color: #093a58;
 }
-h1,
 h2,
 h3 {
 	margin-top: 0;
@@ -67,8 +66,8 @@ img {
 /* ---- Layout Containers ---- */
 
 .main-header {
-	padding-top: .35em;
-	padding-bottom: .35em;
+	padding-top: .5em;
+	padding-bottom: .5em;
 }
 .banner,
 .main-footer {
@@ -77,8 +76,8 @@ img {
 .banner {
 	color: #fff;
 	background: #3acec2;
-	padding: 1em 0;
-	margin-bottom: 24px;
+	padding: 1.8em 0;
+	margin-bottom: 32px;
 }
 .col {
 	padding-right: 1em;
@@ -93,7 +92,7 @@ img {
 /* ---- Page Elements ---- */
 
 .logo {
-	width: 132px;
+	width: 140px;
 }
 .headline {
 	margin-bottom: 0;
